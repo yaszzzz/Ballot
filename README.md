@@ -22,11 +22,5 @@ This repository is a personal journey into building Decentralized Applications (
 - Connect DApp frontend with smart contract ⏳
 - Launch a simple DApp on testnet ⏳
 
-# Resources
-- [Solidity Docs](https://docs.soliditylang.org/)
-- [Ethereum Dev Portal](https://ethereum.org/en/developers/)
-- [CryptoZombies](https://cryptozombies.io/)
-
----
 
 Learning blockchain, one block at a time.
